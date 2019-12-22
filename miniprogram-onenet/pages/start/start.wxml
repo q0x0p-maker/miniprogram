@@ -1,0 +1,6 @@
+<!--start.wxml-->
+<view class="intro">
+  目的: 根据环境亮度选择背景音乐，并在手机端显示歌名
+</view>
+
+<button class="btn1" bindtap="navigate">查看歌名</button>

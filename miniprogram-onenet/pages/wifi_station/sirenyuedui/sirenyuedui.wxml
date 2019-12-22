@@ -1,0 +1,7 @@
+<image src="{{src}}"></image>
+<view wx:if="{{type == 1}}" class = "A"> 小星星1 </view>
+<view wx:elif="{{type == 2}}" class = "A"> 小星星2 </view>
+<view wx:elif="{{type == 3}}" class = "A"> 小星星3 </view>
+
+
+
